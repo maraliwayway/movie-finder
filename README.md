@@ -1,4 +1,10 @@
 # Movie Finder 
+![Search Results](images/sort.png)
+*Figure 1. Display movie results from a search*
+
+![Favourites](images/favorite.png)
+*Figure 2. Display favourited movies*
+
 Movie Finder is a beginner-friendly movie app that allows you to search for movies using The Movie Database (TMDb) API, add movies to your Favourites, and view your saved Favourites. This project was developed for an Intro to Web Dev workshop for SFU Software Systems Student Society's DreamHacks 2025 hackathon. 
 
 ## Features
